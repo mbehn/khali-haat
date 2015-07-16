@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Khali Haat Music - Home</title>
+	<title>Khali Haat Afrobeat Music - Home</title>
+	<meta name="keywords" content="Afrobeat, Austin, Austin TX, Music, Live Music, Dance, World Music, For Hire, Musicians">
 	<?php include "_/components/assets.php" ?>
 </head>
 <body id="home">

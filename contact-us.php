@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Khali Haat Music - Contact Us</title>
+	<title>Khali Haat Afrobeat Music - Contact Us</title>
 	<?php include "_/components/assets.php" ?>
 </head>
 <body id="contact-us">

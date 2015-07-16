@@ -1,8 +1,13 @@
 <div class="modal fade col-lr-6" id="gallery-modal">
-	<img src="" id="current-modalimage">
-
+	<div class="modal-content">
+		<div class="modal-boday">
+			<div class="current-modal">
+				<img src="" id="current-modalimage">
+			</div>
+		</div>
+	</div>
 </div>
-<div class="khali-haat-gallery col-lg-9">
+<div class="main-content-area col-lg-9">
 	<div id="khali-haat-gallery-container">
 		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
     	            <a class="thumbnail" href="#">
