@@ -1,1 +1,1 @@
-<?php include '_/components/nav.php' ?>
+<h1 class="page-title">Khaali Haat</h1>
