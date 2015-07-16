@@ -25,6 +25,7 @@ time, mark, audio, video {
 	font-family: 'Anton', sans-serif;
 	font-weight: normal
 }
+#gallery-title {color: lightyellow; letter-spacing: 8px}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {

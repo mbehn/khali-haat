@@ -8,6 +8,7 @@
 	</div>
 </div>
 <div class="main-content-area col-lg-9">
+	<h2 id="gallery-title">Haat off the press</h2>
 	<div id="khali-haat-gallery-container">
 		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
     	            <a class="thumbnail" href="#">
