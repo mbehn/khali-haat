@@ -9,6 +9,7 @@
 	<div class="container">
 		<?php include "_/components/header.php" ?>
 		<?php include "_/components/left-navigation.php" ?>
+		<?php include "_/components/home-content.php" ?>
 	</div>
 <?php include "_/components/footer-assets.php" ?>
 </body>
