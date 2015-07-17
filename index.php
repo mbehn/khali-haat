@@ -6,6 +6,7 @@
 	<?php include "_/components/assets.php" ?>
 </head>
 <body id="home">
+	<?php include "_/components/analytics-tracking.php" ?>
 	<div class="container">
 		<?php include "_/components/header.php" ?>
 		<?php include "_/components/left-navigation.php" ?>

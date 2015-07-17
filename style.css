@@ -54,7 +54,7 @@ a {text-decoration: none}
 h1.page-title {text-align: center;letter-spacing: 1.0em;color: lightyellow;background-color: rgba(0,0,0,0.2);padding: 20px;font-size: 54px}
 body {background:#191919 url(assets/images/background-2.png) repeat left top fixed}
 /*.container {height:2000px;}*/
-#left-navigation { background-color: rgba(0,0,0,.5); width:250px; height:410px; position: fixed; left:0; top:180px;}
+#left-navigation { background-color: rgba(0,0,0,.5); width:250px; height:425px; position: fixed; left:0; top:180px;}
 #left-navigation-menu-items {float:right; width:inherit;}
 #left-navigation-menu-items li {padding:8px; text-align: right}
 #left-navigation-menu-items a {display:block;letter-spacing:5px;color:white; -webkit-transition:color .3s; -moz-transition:color .3s;transition:color .3s;font-size:38px;color:lightyellow;}
